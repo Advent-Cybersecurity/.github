@@ -1,10 +1,16 @@
+<div align="center">
+
 # Advent Cybersecurity
 
-> Offensive and defensive security under one roof.
+**Offensive and defensive security under one roof.**
 
-Virginia-based security consultancy. We help small-to-mid-size businesses
-strengthen their posture with hands-on red team / blue team work, not
-checkbox compliance.
+[Website](https://www.adventcybersecurity.com) · [Services](https://www.adventcybersecurity.com) · [Field Manual](https://fm.adventcybersecurity.com/) · [Contact](https://www.adventcybersecurity.com/contact)
+
+</div>
+
+---
+
+A Virginia-based security consultancy. We help small-to-mid-size businesses strengthen their posture with hands-on red team and blue team work, not checkbox compliance.
 
 ## Services
 
@@ -14,17 +20,19 @@ checkbox compliance.
 - Security architecture review
 - Security awareness training
 
-[See services and book a discovery call](https://www.adventcybersecurity.com)
+[Book a discovery call](https://www.adventcybersecurity.com/contact)
 
 ## Products
 
-- **[Breachwright](https://www.adventcybersecurity.com/software/breachwright)** - AI-powered pentest management software. Closed source with a free community edition.
-- **Moxie** - pentesting model built for offensive security workflows. In development.
-- **[Advent Field Manual](https://fm.adventcybersecurity.com/)** - open offensive security reference, free for the community.
+| Product | Description | Status |
+|---|---|---|
+| [Breachwright](https://www.adventcybersecurity.com/software/breachwright) | AI-powered pentest management software | Closed source, free community edition |
+| Moxie | Pentesting model built for offensive security workflows | In development |
+| [Advent Field Manual](https://fm.adventcybersecurity.com/) | Open offensive security reference | Live |
 
 ## Reporting a vulnerability
 
-If you have found a security issue in an Advent Cybersecurity project, use GitHub's private vulnerability reporting on the relevant repository, or see `SECURITY.md` on the project for project-specific contact details.
+If you have found a security issue in an Advent Cybersecurity project, use GitHub's private vulnerability reporting on the relevant repository, or see the project's `SECURITY.md` for project-specific contact details.
 
 ## Contact
 
