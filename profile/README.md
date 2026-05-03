@@ -10,7 +10,7 @@
 
 ---
 
-A Virginia-based security consultancy. We help small-to-mid-size businesses strengthen their posture with hands-on red team and blue team work, not checkbox compliance.
+We help small-to-mid-size businesses strengthen their posture with hands-on red team and blue team work, not checkbox compliance.
 
 ## Services
 
