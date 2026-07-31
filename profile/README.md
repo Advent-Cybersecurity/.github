@@ -26,8 +26,7 @@ We help small-to-mid-size businesses strengthen their posture with hands-on red 
 
 | Product | Description | Status |
 |---|---|---|
-| [Breachwright](https://www.adventcybersecurity.com/software/breachwright) | AI-powered pentest management software | Closed source, free community edition |
-| Moxie | Pentesting model built for offensive security workflows | In development |
+| [Breachwright](https://www.adventcybersecurity.com/software/breachwright) | AI-powered pentest management software | Open source |
 | [Advent Field Manual](https://fm.adventcybersecurity.com/) | Open offensive security reference | Live |
 
 ## Reporting a vulnerability
